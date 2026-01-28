@@ -1,5 +1,6 @@
-# Nuxt Minimal Starter
+# PDF Report Generator - Maxchat
 
+Node v22.12.0
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
 ## Setup
