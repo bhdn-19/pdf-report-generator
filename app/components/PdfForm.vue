@@ -85,8 +85,10 @@ const submitForm = async () => {
     })
 
     emit("refresh")
+    alert('Download berhasil.')
   }catch(error){
     console.error(err)
+    alert('Download gagal.')
   }finally{
     isLoading.value = false
   }
